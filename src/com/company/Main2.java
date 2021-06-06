@@ -15,6 +15,7 @@ public class Main2 {
         5.3. если число равно загаданному, то вывести что вы угадали и закончить программу
 	 */
 
-
+//sdlkfnsklfdnsdklfnkl
+       // kjlsdnfskjdfs
     }
 }
